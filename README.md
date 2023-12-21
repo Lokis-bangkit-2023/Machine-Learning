@@ -22,7 +22,19 @@ and we were inspired by this data set to build our recommendation system in [her
 
 But we decided to build our own dataset because we didn't find the right dataset for our project. We crawl data from many sources and make it into a single dataset which you can view in [here](https://docs.google.com/spreadsheets/d/1lq6qeYAhBJBJbuyC9DpwKehQ6mWswMkd-NMfbDlkwnw/edit?pli=1#gid=990183666)
 
+## 📚 Libraries Used
 
+This project utilizes several Python libraries for data handling, machine learning, and visualization:
+
+| Library                | Purpose                                                   |
+| ---------------------- | --------------------------------------------------------- |
+| `pandas`               | Facilitates data manipulation and analysis with data frames. |
+| `numpy`                | Enables efficient numerical computations and array operations. |
+| `tensorflow`           | An open-source machine learning framework for building and training models. |
+| `keras`                | High-level neural networks API, integrated with TensorFlow for easy model construction. |
+| `matplotlib.pyplot`    | Used for creating visualizations, plots, and charts in Python. |
+| `IPython.display`      | Provides tools for interactive computing, useful for dynamic displays. |
+| `jiwer`                | Calculates Word Error Rate (WER) for evaluating speech recognition performance. |
 
 ### Reference
 * Solved TSP for optimasion route with RL in [here](https://medium.com/unit8-machine-learning-publication/routing-traveling-salesmen-on-random-graphs-using-reinforcement-learning-in-pytorch-7378e4814980)

@@ -1,18 +1,17 @@
 # Machine-Learning
 
 ## Description
-Lokis : Lokasi Seru
-the idea of our application is to provide recommendations for the fastest and most efficient route to several tourist destinations and also provide recommendations for tourist attractions based on user. based on what the user likes and also provides packages for several tourist attractions according to several parameters such as city, price, category, and also time
+"Lokis: Lokasi Seru" aims to create an application that provides tourist attraction recommendations in the Jabodetabek area. The app considers users' preferences and offers packages of various tourist attractions based on parameters such as city, price, category, and time.
 
-### Optimation shortest Route
-The Traveling Salesman Problem (TSP) is a classic problem that tries to find the shortest route for salesman who want to visit several cities without having to visit the same city more than once.
+## Shortest Route Optimization
+The Traveling Salesman Problem (TSP) is a classic conundrum that seeks the most efficient route for salesmen visiting multiple cities without revisiting the same city.
 
-Reinforcement learning (RL) is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.
+Reinforcement learning, a subset of machine learning, focuses on how intelligent agents can make decisions in an environment to maximize cumulative rewards. RL, along with supervised and unsupervised learning, represents one of the three fundamental machine learning paradigms.
 
-### Recomendation System
-Collaborative filtering is a technique that can filter out items that a user might like on the basis of reactions by similar users. It works by searching a large group of people and finding a smaller set of users with tastes similar to a particular user.
+## Recommendation System:
+Collaborative filtering is a technique that filters items a user might like based on reactions from similar users. It involves searching a large user group to identify a small subgroup with similar tastes to a particular user.
 
-Content-based recommenders treat recommendation as a user-specific classification problem and learn a classifier for the user's likes and dislikes based on an item's features. In this system, keywords are used to describe the items and a user profile is built to indicate the type of item this user likes.
+Content-based recommenders treat recommendations as user-specific classification problems. They learn classifiers for user preferences based on item features. In this system, keywords describe items, and user profiles indicate the types of items users prefer.
 
 ### Dataset
 
